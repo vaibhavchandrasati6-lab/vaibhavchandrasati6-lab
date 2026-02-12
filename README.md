@@ -11,8 +11,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vaibhavchandrasati6-lab&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchandrasati6-lab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaibhavchandrasati6-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Snake Game Repo View -->
 
