@@ -4,7 +4,7 @@
 
 - 🌱 **I’m currently learning:** Data Science
 - ⚡ **Fun fact:** I Love Learning new concepts
-- 
+  
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
